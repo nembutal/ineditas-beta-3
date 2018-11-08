@@ -7,8 +7,7 @@
 
 <section class="foot-btns-itas">
                   <div class="foot-btn-registro-itas">
-                    <a href="#" title="Registrate">Registrarse</a>
-                    <a href="#" title="Iniciar sesión">Iniciar sesión</a>
+                    <a href="#" title="Iniciar sesión">Contacto</a>
                   </div>
                   <div class="foot-btn-redes-itas">
                     <a href="https://www.facebook.com/ineditasfilmsmx/" target="_blank" class="icon-facebook" title="Ir a facebook"></a>

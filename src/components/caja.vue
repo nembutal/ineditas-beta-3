@@ -13,10 +13,10 @@ export default {
 <style lang="css">
 .cajita{
   width:100%;
-  height:300px;
-  background:red;
+  height:600px;
+  background:#ccc;
 }
 h1{
-  font-size:5em;
+  font-size:1em;
 }
 </style>

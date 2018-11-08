@@ -28,7 +28,7 @@
                 </ul>
           </li>
 <li><a href="#" title="Servicios">Servicios</a></li>
-<li><a href="#" title="Contacto">Contacto</a></li>
+<li><a href="#" title="Contacto">Iniciar sesión</a></li>
   </ul>
   </section>
 </section>
@@ -76,15 +76,11 @@ mounted(){
     elemento.style.maxHeight = "800px";
     abrir.style.display = "block";
     cerrar.style.display = "none";
-    video.muted;
-
   }else{
     elemento.style.maxHeight = "0px";
     abrir.style.display = "block";
     cerrar.style.display = "none";
-    video.muted = true;
-    boton.classList.remove('icon-volume-high');
-    boton.classList.add('icon-volume-mute2');
+
   }
   }
 }
@@ -112,7 +108,7 @@ mounted(){
   display: flex;
 }
 .menu-barra-itas a{
-  padding:10px;
+  padding:8px;
   background:black;
   color:white;
   text-decoration:none;
